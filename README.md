@@ -20,3 +20,7 @@ This project is focused on applying Natural Language Processing techniques in th
 1. Clone the repository:
    ```bash
    git clone <repo_url>
+
+2. Install the required dependencies (create a virtual environment first):
+    ```bash
+    pip install -r requirements.txt
