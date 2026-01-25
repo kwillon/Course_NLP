@@ -1,4 +1,4 @@
-# Course_NLP
+# Course_NLP_1
 
 This repository is an educational project for the course *Natural Language Processing in Chemistry*. It explores various NLP techniques and their applications in the field of chemistry, focusing on text processing and analysis.
 
